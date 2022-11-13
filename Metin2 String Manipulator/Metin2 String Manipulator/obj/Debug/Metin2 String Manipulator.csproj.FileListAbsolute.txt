@@ -1,0 +1,8 @@
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\bin\Debug\Metin2 String Manipulator.exe
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\bin\Debug\Metin2 String Manipulator.exe.config
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\bin\Debug\Metin2 String Manipulator.pdb
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\obj\Debug\Metin2 String Manipulator.csproj.SuggestedBindingRedirects.cache
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\obj\Debug\Metin2 String Manipulator.csproj.CoreCompileInputs.cache
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\obj\Debug\Metin2 String Manipulator.exe
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\obj\Debug\Metin2 String Manipulator.pdb
+C:\Mano Workspace\Web API\Metin2 String Manipulator\Metin2 String Manipulator\obj\Debug\Metin2 String Manipulator.csproj.AssemblyReference.cache
