@@ -25,20 +25,6 @@ namespace Metin2_String_Manipulator
             string[] refereneceFile = File.ReadAllLines($"{Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)}\\references\\{filename}.txt", Encoding.Default);
             Console.WriteLine($"Reading the main {filename}.txt...");
             string[] mainFile = File.ReadAllLines($"{Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)}\\{filename}.txt", Encoding.Default);
-            // start the merging script
-            //for (int i = 0; i < mainFile.Length; i++)
-            //{
-            //    var tempStr = mainFile[i].Split('\t'); // take the line and split it to 2 halfs
-            //    for (int j = 0; j < refereneceFile.Length; j++)
-            //    {
-            //        var refereneceStr = refereneceFile[j].Split('\t'); // same with the refrence file
-            //        if (tempStr[0] == refereneceStr[0]) // found a match in the 1st half of two strings
-            //        {
-            //            tempStr[1] = refereneceStr[1]; // take the right side of the reference and assign it to right side of the main
-            //            mainFile[i] = string.Join("\t", tempStr); // join the 2 halfs in one line sperated by \t again
-            //        }
-            //    }
-            //}
             // Optimized searching
             for (int i = 0; i < mainFile.Length; i++)
             {
